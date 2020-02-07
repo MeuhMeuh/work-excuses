@@ -21,7 +21,7 @@
                     'I broke my toe',
                     'My boiler is out of service',
                     'My son is sick',
-                    'My wife fall in the Loire river',
+                    'My wife fell in the Loire river',
                     'Someone stole my bike and destroyed my car'
                 ],
                 excuse: ''
