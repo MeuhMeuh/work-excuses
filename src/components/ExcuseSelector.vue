@@ -27,7 +27,7 @@
                     'My son kicked my ass and I can\'t walk',
                     'Sorry, I thought that it was a day off',
                     'I forgot that I was working for you',
-                    'I am a "cadre", it's not about time but goals',
+                    'I am a "cadre", it\'s not about time but goals',
                 ],
                 excuse: ''
             };
