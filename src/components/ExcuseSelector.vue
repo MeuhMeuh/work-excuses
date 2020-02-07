@@ -22,7 +22,12 @@
                     'My boiler is out of service',
                     'My son is sick',
                     'My wife fall in the Loire river',
-                    'Someone stole my bike and destroyed my car'
+                    'Someone stole my bike and destroyed my car',
+                    'My dog ate my wife',
+                    'My son kicked my ass and I can't walk',
+                    'Sorry, I thought that it was a day off',
+                    'I forgot that I was working for you',
+                    'I am a "cadre", it's not about time but goals',
                 ],
                 excuse: ''
             };
